@@ -29,17 +29,17 @@ Clone this project or download its zip and extract it.
 
 Copy `Python` dir to the model's directory
 Your directories should look like:
- >SimulationDataAndSetupFiles
+>SimulationDataAndSetupFiles
 >>CMC
-ExpData
-Geometry
-ID
-IK
-Python
-RRA
-Scale
-scripts
-videos
+>>ExpData
+>>Geometry
+>>ID
+>>IK
+>>Python
+>>RRA
+>>Scale
+>>scripts
+>>videos
 
 Go to the Python dir and run scripts from there. Instructions are the same as for the original Matlab scripts.
 
