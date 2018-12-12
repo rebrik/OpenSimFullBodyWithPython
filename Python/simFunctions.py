@@ -1,10 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 20 21:16:29 2018
-
-@author: rebrik
-"""
 import subprocess
 import numpy as np 
 

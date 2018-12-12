@@ -1,10 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 30 18:21:46 2018
-
-@author: rebrik
-"""
 import pandas as pd
 import numpy as np 
 from  scipy import interpolate
