@@ -25,25 +25,25 @@ Download the model from the repository (registration required)
 https://simtk.org/projects/full_body
 Extract files to a directory
 
-Clone this project or download its zip.
+Clone this project or download its zip and extract it.
 
 Copy `Python` dir to the model's directory
 Your directories should look like:
-└── SimulationDataAndSetupFiles
-    ├── CMC
-    ├── ExpData
-    ├── Geometry
-    ├── ID
-    ├── IK
-    ├── Python
-    ├── RRA
-    ├── Scale
-    ├── scripts
-    └── videos
+ >SimulationDataAndSetupFiles
+>>CMC
+ExpData
+Geometry
+ID
+IK
+Python
+RRA
+Scale
+scripts
+videos
 
 Go to the Python dir and run scripts from there. Instructions are the same as for the original Matlab scripts.
 
-
+**Note:** Two `.mat` files from the distribution were converted to tab-delimited text files: `emg_run.txt` and `emg_walk.txt`.
 
 
 
