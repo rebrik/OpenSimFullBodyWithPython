@@ -4,6 +4,8 @@ This project extends [**Full Body Model for use in Dynamic Simulations of Human 
 
 This Python code was derived from the original Matlab code, and where possible the names of scripts, the comments, and the names of variables were preserved.
 
+The scripts were tested on Xubuntu 16.04.5 LTS 64
+
 #### Requirements
 + opensim installed and added to the Path
 + Python 2 installed
