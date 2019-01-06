@@ -1,6 +1,6 @@
 ### OpenSim Full Body Model with Python
 
-This project extends [**Full Body Model for use in Dynamic Simulations of Human Gait**](https://simtk.org/projects/full_body) with Python scripts which are equivalent to the Matlab scrips provided with the model. At this point only the "walk" part is implemented. "Run" simulation will be added later.
+This project extends [**Full Body Model for use in Dynamic Simulations of Human Gait**](https://simtk.org/projects/full_body) with Python scripts which are equivalent to the Matlab scrips provided with the model. 
 
 This Python code was derived from the original Matlab code, and the names of scripts, the comments, and the names of variables were preserved where possible.
 
