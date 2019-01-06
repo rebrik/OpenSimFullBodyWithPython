@@ -2,7 +2,7 @@
 
 This project extends [**Full Body Model for use in Dynamic Simulations of Human Gait**](https://simtk.org/projects/full_body) with Python scripts which are equivalent to the Matlab scrips provided with the model. At this point only the "walk" part is implemented. "Run" simulation will be added later.
 
-This Python code was derived from the original Matlab code, and where possible the names of scripts, the comments, and the names of variables were preserved.
+This Python code was derived from the original Matlab code, and the names of scripts, the comments, and the names of variables were preserved where possible.
 
 The scripts were tested on Xubuntu 16.04.5 LTS 64
 
